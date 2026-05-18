@@ -1,5 +1,7 @@
 Marks for AI magistrature motivation letter
 
+Выписка: https://drive.google.com/file/d/1oqwgDPcQ3cpwQLWbr-4HAMJsCCJsxrkt/view?usp=sharing
+
 Ниже список пройденных дисциплин с оценками по десятибалльной шкале, сгруппированный по трём категориям: **Математика**, **Разработка**.
 
 **Математика**
